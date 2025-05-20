@@ -7,7 +7,7 @@ Os Controllers são os arquivos utilizados para controlar a lógica das requisi�
 Por fim, os endpoints são responsáveis por se comunicarem com os controllers, a fim de direcionar o usuário por meio de rotas específicas, procuradas por meio das requisições, por exemplo quando temos "http://localhost:3000/alunos" ou "http://localhost:3000/professores" nos direcionando a requisições feitas para "alunos" ou "professores".
 
 ## 🤠Explique como ocorre o envio e o recebimento de dados no formato JSON neste projeto:
-No projeto, as rotas definidas em routes/ podem retornar respostas em JSON, especialmente para APIs.
+No projeto, as rotas definidas em routes/ podem retornar respostas em JSON, especialmente para APIs, por exemplo quando eu uso o POST para deletar os dados das tabelas anteriores.
 
 ## 🤠Explique como qual a importância de usar HTML básico com formulários e tabelas para organizar e manipular dados no navegador:
 No proejto o HTML básico garante compatibilidade com diversos navegadores e dispositivos, além de facilitar a manutenção e acessibilidade da aplicação.
