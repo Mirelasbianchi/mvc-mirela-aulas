@@ -10,7 +10,7 @@ Por fim, os endpoints são responsáveis por se comunicarem com os controllers, 
 No projeto, as rotas definidas em routes/ podem retornar respostas em JSON, especialmente para APIs, por exemplo quando eu uso o POST para deletar os dados das tabelas anteriores.
 
 ## 🤠Explique como qual a importância de usar HTML básico com formulários e tabelas para organizar e manipular dados no navegador:
-No proejto o HTML básico garante compatibilidade com diversos navegadores e dispositivos, além de facilitar a manutenção e acessibilidade da aplicação.
+No projeto o HTML básico garante compatibilidade com diversos navegadores e dispositivos, além de facilitar a manutenção e acessibilidade da aplicação.
 
 ## Requisitos
 
